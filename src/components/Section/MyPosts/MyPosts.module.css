@@ -1,0 +1,14 @@
+
+.posts{
+    grid-area: section;
+    background-color: green;
+}
+
+img{
+    height: 400px;
+    width:auto;
+}
+
+li{
+    list-style: none;
+}
