@@ -25,3 +25,8 @@ body{
   grid-gap: 10px;
 
 }
+
+.app-wrapper-content{
+  grid-area: section;
+  background-color: green;
+}

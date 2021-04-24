@@ -3,8 +3,13 @@
     background-color: blue;
   }
 
-.item{
-    color: orange;
+.item a{
+    color: white;
+    text-decoration: none;
+}
+
+.item a.activeLink{
+  color: gold;
 }
 
 .item.active{
